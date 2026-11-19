@@ -1,4 +1,4 @@
-# Placement Prep RAG Assistant
+# PlacementIQ
 
 A retrieval-augmented chatbot that answers questions over placement documents
 (policies, job descriptions, prep notes). I built it during placement season to

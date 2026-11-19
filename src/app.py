@@ -9,7 +9,7 @@ load_dotenv(pathlib.Path(__file__).resolve().parents[1] / ".env")
 
 from rag import Retriever, answer  # noqa: E402
 
-app = FastAPI(title="Placement Prep RAG Assistant")
+app = FastAPI(title="PlacementIQ")
 retriever = Retriever()
 
 
